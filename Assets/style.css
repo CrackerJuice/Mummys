@@ -1,0 +1,12 @@
+body {
+    background-color: #aab0b0;
+}
+
+.conyi {
+    justify-content: center;
+    display:flex;
+    position: sticky;
+    height: 200px;
+    width: 200px;
+    background-color: #697d7d;
+}
